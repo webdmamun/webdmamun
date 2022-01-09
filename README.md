@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there, I'm <a href="https://www.webdmamun.com/" target="_blank">Mamun!</a> 👋
+Hi there, I'm <a href="https://www.webdmamun.com/" target="_blank" rel="noreferrer">Mamun!</a> 👋
 </h2>
 
 I am a full-stack developer who is dedicated to creating error-free websites that provide 100 percent customer satisfaction. I'm passionate about learning and sharing what I've learned with as many people as possible. I enjoy solving challenges in the real world. I am strategic and goal-oriented, and I constantly work for a common goal.
@@ -45,7 +45,7 @@ I am a full-stack developer who is dedicated to creating error-free websites tha
 
 **💬 If you have any question/feedback, please do not hesitate to reach out to me!**
 
-## 💚 Hire me on <a href="https://www.upwork.com/freelancers/~01e2529aa950570604" target="_blank">Upwork!</a>
+## 💚 Hire me on <a href="https://www.upwork.com/freelancers/~01e2529aa950570604" target="_blank" rel="noreferrer">Upwork!</a>
 </br>
 
 ![GitHub metrics](https://metrics.lecoq.io/webdmamun)  
