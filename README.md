@@ -42,13 +42,13 @@ I am a full-stack developer who is dedicated to creating error-free websites tha
 
 ****
 ### ☕ Connect with me!
-<a href="https://www.webdmamun.com"><img align="left" src="https://i.ibb.co/RTY17rT/web.png" alt="Mamun Ahmed | Website" width="21px"/></a>
-<a href="https://www.linkedin.com/in/webdmamun1/"><img align="left" src="https://i.ibb.co/m9DT7kY/linkedin.png" alt="Mamun Ahmed | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/webd_mamun/"><img align="left" src="https://i.ibb.co/cg09LDp/instagram.png" alt="Mamun Ahmed | Instagram" width="21px"/></a>
-<a href="https://www.facebook.com/webdmamun/"><img align="left" src="https://i.ibb.co/NpKG3gx/facebook.png" alt="Mamun Ahmed | Facebook" width="21px"/></a>
-<a href="https://twitter.com/webdmamun"><img align="left" src="https://i.ibb.co/wymfmsq/twitter.png" alt="Mamun Ahmed | Twitter" width="21px"/></a>
-<a href="skype:md.mamunahmed2255?chat"><img align="left" src="https://i.ibb.co/C69Bx5M/skype.png" alt="Mamun Ahmed | Skype" width="21px"/></a>
-
+<a href="https://www.webdmamun.com"><img align="left" src="https://i.ibb.co/RTY17rT/web.png" alt="Mamun Ahmed | Website" width="25px"/></a>
+<a href="https://www.linkedin.com/in/webdmamun1/"><img align="left" src="https://i.ibb.co/m9DT7kY/linkedin.png" alt="Mamun Ahmed | LinkedIn" width="25px"/></a>
+<a href="https://www.instagram.com/webd_mamun/"><img align="left" src="https://i.ibb.co/cg09LDp/instagram.png" alt="Mamun Ahmed | Instagram" width="25px"/></a>
+<a href="https://www.facebook.com/webdmamun/"><img align="left" src="https://i.ibb.co/NpKG3gx/facebook.png" alt="Mamun Ahmed | Facebook" width="25px"/></a>
+<a href="https://twitter.com/webdmamun"><img align="left" src="https://i.ibb.co/wymfmsq/twitter.png" alt="Mamun Ahmed | Twitter" width="25px"/></a>
+<a href="skype:md.mamunahmed2255?chat"><img align="left" src="https://i.ibb.co/C69Bx5M/skype.png" alt="Mamun Ahmed | Skype" width="25px"/></a>
+</br>
 ***
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdmamun&theme=synthwave&show_icons=true)
