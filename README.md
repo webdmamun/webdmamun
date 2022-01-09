@@ -8,13 +8,11 @@ Skills: HTML5, CSS3, JavaScript (ES6), React.JS, React-Router, Bootstrap, Materi
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/webdmamun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/webdmamun1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/webdmamun1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](webdmamun.com)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdmamun&theme=synthwave&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdmamun&theme=synthwave&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=webdmamun)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdmamun)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdmamun&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webdmamun)  
 
