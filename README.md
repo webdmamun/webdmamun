@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there, I'm <a href="https://www.webdmamun/" target="_blank" rel="noreferrer">Mamun</a> 👋
+Hi there, I'm <a href="https://www.webdmamun/" target="_blank">Mamun</a> 👋
 </h2>
 
 #### I am a Full-Stack Web Developer
