@@ -19,5 +19,3 @@ HTML5, CSS3, JavaScript (ES6), React.JS, React-Router, Bootstrap, Material UI, T
 ![GitHub metrics](https://metrics.lecoq.io/webdmamun)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=webdmamun)  
-
-![Profile views](https://gpvc.arturio.dev/webdmamun)  
