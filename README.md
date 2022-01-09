@@ -20,7 +20,7 @@ I am a full-stack developer who is dedicated to creating error-free websites tha
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
-![](https://img.shields.io/badge/Style-Tailwind--CSS-informational?style=flat&logo=Tailwind-CSS&color=0081CB)
+![](https://img.shields.io/badge/Style-Tailwind--CSS-informational?style=flat&logo=Tailwind-CSS&color=07B6D5)
 
 
 </br>
