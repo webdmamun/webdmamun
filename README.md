@@ -12,7 +12,7 @@ HTML5, CSS3, JavaScript (ES6), React.JS, React-Router, Bootstrap, Material UI, T
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdmamun&theme=synthwave&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdmamun)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdmamun&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webdmamun)  
 
