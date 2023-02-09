@@ -56,6 +56,6 @@ I am a full-stack developer who is dedicated to creating error-free websites tha
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdmamun&layout=compact&theme=synthwave)
 
-![image](https://user-images.githubusercontent.com/73527253/217925554-7781710d-8908-42ad-8ce6-18ba4d4ab2f7.png)  
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=webdmamun&theme=xcode)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=webdmamun)
