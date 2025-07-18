@@ -2,7 +2,7 @@
 Hi there, I'm <a href="https://www.webdmamun.com/" target="_blank" rel="noreferrer">Mamun!</a> 👋
 </h2>
 
-I am a full-stack developer who is dedicated to creating error-free websites that provide 100 percent customer satisfaction. I'm passionate about learning and sharing what I've learned with as many people as possible. I enjoy solving challenges in the real world. I am strategic and goal-oriented, and I constantly work for a common goal.
+I am a passionate full-stack developer dedicated to building error-free websites that provide 100% customer satisfaction. I love learning and sharing knowledge, aiming to help others through the challenges they face in the real world. My approach is strategic and goal-oriented, and I always work towards achieving a common vision.
 
 ## 💼 Technical Skills
 
@@ -45,7 +45,7 @@ I am a full-stack developer who is dedicated to creating error-free websites tha
 <a href="skype:md.mamunahmed2255?chat"><img align="left" src="https://i.ibb.co/C69Bx5M/skype.png" alt="Mamun Ahmed | Skype" width="25px"/></a>
 </br>
 
-**💬 If you have any question/feedback, please do not hesitate to reach out to me!**
+**💬 If you have any question/feedback, feel free to reach out!**
 
 ## 💚 Hire me on <a href="https://www.upwork.com/freelancers/~01e2529aa950570604" target="_blank" rel="noreferrer">Upwork!</a>
 </br>
