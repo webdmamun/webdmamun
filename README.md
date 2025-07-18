@@ -50,12 +50,20 @@ I am a passionate full-stack developer dedicated to building error-free websites
 ## 💚 Hire me on <a href="https://www.upwork.com/freelancers/~01e2529aa950570604" target="_blank" rel="noreferrer">Upwork!</a>
 </br>
 
-![GitHub metrics](https://metrics.lecoq.io/webdmamun)  
+## 🔥 Latest Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=webdmamun&theme=synthwave&show_icons=true)
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/webdmamun">
+  <img alt="webdmamun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=webdmamun&theme=github" />
+</a>
+</br>
+
+## 📊 GitHub Contribution Stats
+
+![webdmamun's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdmamun&theme=synthwave&show_icons=true)
+
+![webdmamun's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=webdmamun)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdmamun&layout=compact&theme=synthwave)
 
 ![image](https://user-images.githubusercontent.com/73527253/217926934-eba5ebc5-b204-40ca-b623-63202c49aa5d.png)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=webdmamun)
