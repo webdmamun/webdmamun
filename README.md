@@ -1,98 +1,189 @@
-<h2 align="center">
-Hi there, I'm <a href="https://www.webdmamun.com/" target="_blank" rel="noreferrer">Mamun!</a> 👋
-</h2>
+# 👋 Hi, I'm Mamun Ahmed
 
-<p align="center">
-Full‑Stack Developer • TypeScript • Next.js • Go • PostgreSQL • Prisma • Docker • Nginx • AWS • AI Agents
-</p>
+### Full-Stack & AI Growth Developer · SaaS Builder · Product Engineer
 
-I’m a passionate full‑stack developer focused on building reliable, user‑friendly products. I love learning and sharing what I learn to help others move faster. My approach is strategic, collaborative, and outcomes‑driven.
+![Typing introduction](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+scalable+SaaS+%26+web+platforms;TypeScript+%7C+Next.js+%7C+Go+%7C+PostgreSQL;CRM+%7C+Dashboards+%7C+Automation+%7C+AI;Engineering+products+for+real-world+businesses)
 
----
+![Portfolio](https://img.shields.io/badge/Portfolio-webdmamun.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-### 🔭 Currently working with
-**TypeScript · Next.js · PostgreSQL · Prisma · Go (Golang) · Docker · Nginx · AWS · Testing · AI Agents**
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Mamun_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)
 
 ---
 
-## 💼 Technical Skills
+## 👨‍💻 About Me
 
-### Frontend
-![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Frontend-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
-![](https://img.shields.io/badge/Language-JavaScript(ES6+)-informational?style=flat&logo=javascript&color=F7DF1E)
-![](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+I'm a **full-stack developer and SaaS builder** focused on creating reliable, scalable, and user-friendly digital products.
 
-### Backend
-![](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=nodedotjs&color=339933)
-![](https://img.shields.io/badge/Backend-Express.js-informational?style=flat&logo=express&color=000000)
-![](https://img.shields.io/badge/Backend-Go_(Golang)-informational?style=flat&logo=go&color=00ADD8)
+I work across the complete product lifecycle — from architecture and database design to frontend development, backend APIs, infrastructure, deployment, testing, and AI-assisted workflows.
 
-### Databases & ORM
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
-![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&color=2D3748)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&color=4EA94B)
+My approach is simple: understand the real problem, design the right system, ship carefully, and keep improving it.
 
-### DevOps & Cloud
-![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&color=2496ED)
-![](https://img.shields.io/badge/DevOps-Nginx-informational?style=flat&logo=nginx&color=009639)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+- 🚀 Building **SaaS platforms, CRM systems, dashboards, and business applications**
+- 🧠 Working with **AI agents, LLM integrations, and intelligent automation**
+- ⚙️ Comfortable across **frontend, backend, databases, infrastructure, and deployment**
+- 🔐 Interested in **authentication, RBAC, payments, APIs, and business-critical workflows**
+- 🧪 Focused on **testing, maintainability, performance, and production reliability**
+- 📈 Combining **engineering decisions with product and business outcomes**
 
-### Testing
-![](https://img.shields.io/badge/Testing-Unit%20•%20Integration%20•%20E2E-informational?style=flat&logo=testing-library&color=E33332)
+> **Build for production. Design for users. Engineer for growth.**
 
-### Styling
-![](https://img.shields.io/badge/Style-Tailwind--CSS-informational?style=flat&logo=Tailwind-CSS&color=06B6D4)
-![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=mui&color=0081CB)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+---
 
-### Tools & Platforms
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&color=FFCB2B)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+## 🧠 Engineering Focus
 
-### AI
-![](https://img.shields.io/badge/AI-Agents-informational?style=flat&logo=openai&color=000000)
+<table style="min-width: 96px;">
+<colgroup><col style="min-width: 48px;"><col style="min-width: 48px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><h3 id="heading-4">⚡ Product Engineering</h3><ul class="tight" data-tight="true"><li><p>SaaS applications</p></li><li><p>Business web platforms</p></li><li><p>CRM systems</p></li><li><p>Admin dashboards</p></li><li><p>Customer portals</p></li><li><p>Internal operational tools</p></li><li><p>E-commerce systems</p></li><li><p>API-driven applications</p></li></ul></td><td colspan="1" rowspan="1"><h3 id="heading-5">🏗️ Backend &amp; Architecture</h3><ul class="tight" data-tight="true"><li><p>REST APIs</p></li><li><p>Authentication &amp; authorization</p></li><li><p>Role-based access control</p></li><li><p>Database architecture</p></li><li><p>Business logic</p></li><li><p>Payment integrations</p></li><li><p>Background workflows</p></li><li><p>Production deployments</p></li></ul></td></tr><tr><td colspan="1" rowspan="1"><h3 id="heading-6">🤖 AI &amp; Automation</h3><ul class="tight" data-tight="true"><li><p>AI agents</p></li><li><p>LLM integrations</p></li><li><p>AI-assisted workflows</p></li><li><p>Process automation</p></li><li><p>Intelligent internal tools</p></li><li><p>AI-powered product features</p></li></ul></td><td colspan="1" rowspan="1"><h3 id="heading-7">🚀 Production Engineering</h3><ul class="tight" data-tight="true"><li><p>Dockerized applications</p></li><li><p>Nginx configuration</p></li><li><p>Cloud deployment</p></li><li><p>CI/CD workflows</p></li><li><p>Performance optimization</p></li><li><p>Testing &amp; validation</p></li><li><p>Production debugging</p></li><li><p>Reliability improvements</p></li></ul></td></tr></tbody>
+</table>
 
-<br/>
+---
 
-## ☕ Connect with me!
-<a href="https://www.webdmamun.com"><img align="left" src="https://i.ibb.co/RTY17rT/web.png" alt="Mamun Ahmed | Website" width="25px"/></a>
-<a href="https://www.linkedin.com/in/webdmamun1/"><img align="left" src="https://i.ibb.co/m9DT7kY/linkedin.png" alt="Mamun Ahmed | LinkedIn" width="25px"/></a>
-<a href="https://www.instagram.com/webd_mamun/"><img align="left" src="https://i.ibb.co/cg09LDp/instagram.png" alt="Mamun Ahmed | Instagram" width="25px"/></a>
-<a href="https://www.facebook.com/webdmamun/"><img align="left" src="https://i.ibb.co/NpKG3gx/facebook.png" alt="Mamun Ahmed | Facebook" width="25px"/></a>
-<a href="https://twitter.com/webdmamun"><img align="left" src="https://i.ibb.co/wymfmsq/twitter.png" alt="Mamun Ahmed | Twitter" width="25px"/></a>
-<a href="skype:md.mamunahmed2255?chat"><img align="left" src="https://i.ibb.co/C69Bx5M/skype.png" alt="Mamun Ahmed | Skype" width="25px"/></a>
-<br/>
+## 🛠️ Technology Stack
 
-**💬 If you have any question/feedback, feel free to reach out!**
+### Core Development
 
-## 💚 Hire me on <a href="https://www.upwork.com/freelancers/~01e2529aa950570604" target="_blank" rel="noreferrer">Upwork!</a>
-<br/>
+![Core development stack](https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,go&theme=dark&perline=7)
 
-## 🔥 Latest Activity
+`TypeScript` · `JavaScript` · `Next.js` · `React` · `Node.js` · `Express` · `Go`
 
-<!-- GitHub Activity Graph -->
-<a href="https://github.com/webdmamun">
-  <img alt="webdmamun's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=webdmamun&theme=github" />
-</a>
-<br/>
+### Databases & Data Layer
 
-## 📊 GitHub Contribution Stats
+![Database technologies](https://skillicons.dev/icons?i=postgres,prisma,mongodb,firebase&theme=dark&perline=4)
 
-![webdmamun's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdmamun&theme=synthwave&show_icons=true)
+`PostgreSQL` · `Prisma ORM` · `MongoDB` · `Firebase`
 
-![webdmamun's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=webdmamun)
+### Infrastructure & DevOps
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdmamun&layout=compact&theme=synthwave)
+![Infrastructure and DevOps technologies](https://skillicons.dev/icons?i=docker,nginx,aws,vercel,linux,bash,git,github&theme=dark&perline=8)
 
-![image](https://user-images.githubusercontent.com/73527253/217926934-eba5ebc5-b204-40ca-b623-63202c49aa5d.png)
+`Docker` · `Nginx` · `AWS` · `Vercel` · `Linux` · `Bash` · `Git` · `GitHub`
+
+### Frontend & UI
+
+![Frontend and UI technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,figma&theme=dark&perline=7)
+
+`React` · `Next.js` · `Tailwind CSS` · `Material UI` · `Bootstrap` · `HTML5` · `CSS3` · `Figma`
+
+---
+
+## 🧪 Engineering Practices
+
+![Testing](https://img.shields.io/badge/Testing-Unit_%7C_Integration_%7C_E2E-21262D?style=for-the-badge&logo=testinglibrary&logoColor=white)
+
+![API](https://img.shields.io/badge/API-REST_%26_Integrations-21262D?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Architecture](https://img.shields.io/badge/Architecture-Scalable_Systems-21262D?style=for-the-badge&logo=serverless&logoColor=white)
+
+![Security](https://img.shields.io/badge/Security-Auth_%26_RBAC-21262D?style=for-the-badge&logo=auth0&logoColor=white)
+
+---
+
+## 🚀 What I Build
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                    PRODUCT SYSTEMS                    │
+├───────────────────────────────────────────────────────┤
+│                                                       │
+│   Web / SaaS UI        →   Next.js + React + TS      │
+│             ↓                                         │
+│   API / Services       →   Node.js / Go              │
+│             ↓                                         │
+│   Business Logic       →   Auth · RBAC · Payments    │
+│             ↓                                         │
+│   Data Layer           →   PostgreSQL + Prisma       │
+│             ↓                                         │
+│   Infrastructure       →   Docker · Nginx · Cloud    │
+│             ↓                                         │
+│   Intelligence         →   AI Agents · Automation    │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+I especially enjoy projects where frontend, backend, data, infrastructure, and business workflows need to operate together as **one reliable system**.
+
+---
+
+## 🎯 Current Focus
+
+```typescript
+const mamun = {
+  role: "Full-Stack & AI Growth Developer",
+
+  building: [
+    "SaaS platforms",
+    "CRM & dashboard systems",
+    "Business-critical web applications",
+    "AI-enabled workflows",
+    "Automation systems",
+  ],
+
+  primaryStack: {
+    frontend: ["TypeScript", "React", "Next.js"],
+    backend: ["Node.js", "Go"],
+    data: ["PostgreSQL", "Prisma"],
+    infrastructure: ["Docker", "Nginx", "AWS"],
+    ai: ["AI Agents", "LLM Integrations", "Automation"],
+  },
+
+  engineeringValues: [
+    "Reliability",
+    "Maintainability",
+    "Performance",
+    "Security",
+    "Scalability",
+    "Great UX",
+  ],
+};
+```
+
+---
+
+## 📊 GitHub Analytics
+
+![Mamun Ahmed's GitHub statistics](https://github-stats-extended.vercel.app/api?username=webdmamun&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Mamun Ahmed's most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=webdmamun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+> GitHub language statistics reflect code detected in public repositories and are not a complete measure of technical proficiency.
+
+---
+
+## 🔥 Contribution Streak
+
+![Mamun Ahmed's GitHub contribution streak](https://streak-stats.demolab.com?user=webdmamun&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Contribution Activity
+
+![Mamun Ahmed's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=webdmamun&theme=github-compact&hide_border=true&area=true)
+
+---
+
+## 🤝 Let's Work Together
+
+I work on **full-stack applications, SaaS products, business platforms, automation systems, and AI-enabled products**.
+
+If you're building something where **technical quality, product thinking, reliability, and scalability** matter, feel free to connect.
+
+### 🌐 [Portfolio](https://www.webdmamun.com/) · 💼 [Upwork](https://www.upwork.com/freelancers/~01e2529aa950570604) · 🔗 [LinkedIn](https://www.linkedin.com/in/webdmamun1/)
+
+---
+
+## 🌍 Find Me Online
+
+![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
+
+![X / Twitter](https://img.shields.io/badge/X_%2F_Twitter-000000?style=flat-square&logo=x&logoColor=white)
+
+### 💻 Engineering products that are built to ship — and built to last.
+
+⭐ **From [webdmamun](https://github.com/webdmamun)**
