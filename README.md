@@ -1,189 +1,112 @@
-# 👋 Hi, I'm Mamun Ahmed
+<div align="center">
 
-### Full-Stack & AI Growth Developer · SaaS Builder · Product Engineer
+# Mamun Ahmed
 
-![Typing introduction](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+scalable+SaaS+%26+web+platforms;TypeScript+%7C+Next.js+%7C+Go+%7C+PostgreSQL;CRM+%7C+Dashboards+%7C+Automation+%7C+AI;Engineering+products+for+real-world+businesses)
+### I build software that businesses run on.
 
-![Portfolio](https://img.shields.io/badge/Portfolio-webdmamun.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
+CRM · Retail operations · HR & payroll · E-commerce · Automation
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Mamun_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+**Building for clients since 2017**
 
-![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)
+[Explore my work](https://webdmamun.com/work) &nbsp; / &nbsp; [Book a meeting](https://cal.com/webdmamun/60min) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/webdmamun1/)
 
----
-
-## 👨‍💻 About Me
-
-I'm a **full-stack developer and SaaS builder** focused on creating reliable, scalable, and user-friendly digital products.
-
-I work across the complete product lifecycle — from architecture and database design to frontend development, backend APIs, infrastructure, deployment, testing, and AI-assisted workflows.
-
-My approach is simple: understand the real problem, design the right system, ship carefully, and keep improving it.
-
-- 🚀 Building **SaaS platforms, CRM systems, dashboards, and business applications**
-- 🧠 Working with **AI agents, LLM integrations, and intelligent automation**
-- ⚙️ Comfortable across **frontend, backend, databases, infrastructure, and deployment**
-- 🔐 Interested in **authentication, RBAC, payments, APIs, and business-critical workflows**
-- 🧪 Focused on **testing, maintainability, performance, and production reliability**
-- 📈 Combining **engineering decisions with product and business outcomes**
-
-> **Build for production. Design for users. Engineer for growth.**
+</div>
 
 ---
 
-## 🧠 Engineering Focus
+I'm a full-stack developer based in Bangladesh, building for clients since **2017**. I build the customer-facing experiences and internal systems behind a business, and stay involved through deployment, maintenance, and the changes that follow.
 
-<table style="min-width: 96px;">
-<colgroup><col style="min-width: 48px;"><col style="min-width: 48px;"></colgroup><tbody><tr><td colspan="1" rowspan="1"><h3 id="heading-4">⚡ Product Engineering</h3><ul class="tight" data-tight="true"><li><p>SaaS applications</p></li><li><p>Business web platforms</p></li><li><p>CRM systems</p></li><li><p>Admin dashboards</p></li><li><p>Customer portals</p></li><li><p>Internal operational tools</p></li><li><p>E-commerce systems</p></li><li><p>API-driven applications</p></li></ul></td><td colspan="1" rowspan="1"><h3 id="heading-5">🏗️ Backend &amp; Architecture</h3><ul class="tight" data-tight="true"><li><p>REST APIs</p></li><li><p>Authentication &amp; authorization</p></li><li><p>Role-based access control</p></li><li><p>Database architecture</p></li><li><p>Business logic</p></li><li><p>Payment integrations</p></li><li><p>Background workflows</p></li><li><p>Production deployments</p></li></ul></td></tr><tr><td colspan="1" rowspan="1"><h3 id="heading-6">🤖 AI &amp; Automation</h3><ul class="tight" data-tight="true"><li><p>AI agents</p></li><li><p>LLM integrations</p></li><li><p>AI-assisted workflows</p></li><li><p>Process automation</p></li><li><p>Intelligent internal tools</p></li><li><p>AI-powered product features</p></li></ul></td><td colspan="1" rowspan="1"><h3 id="heading-7">🚀 Production Engineering</h3><ul class="tight" data-tight="true"><li><p>Dockerized applications</p></li><li><p>Nginx configuration</p></li><li><p>Cloud deployment</p></li><li><p>CI/CD workflows</p></li><li><p>Performance optimization</p></li><li><p>Testing &amp; validation</p></li><li><p>Production debugging</p></li><li><p>Reliability improvements</p></li></ul></td></tr></tbody>
-</table>
+My work includes a CRM used by **500+ people** and a retail platform used by **5,000+ people, including customers and staff**. On most projects, I work as the sole developer.
 
----
+## Selected work
 
-## 🛠️ Technology Stack
+### US Arabian Perfume
+**Live · Sole developer · 5,000+ people, including customers and staff**
 
-### Core Development
+A connected platform for online sales, physical branches, and head-office operations.
 
-![Core development stack](https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,go&theme=dark&perline=7)
+- **Commerce:** storefront, checkout, point of sale, orders, and fulfilment.
+- **Branches:** inventory, stock requests, register shifts, and branch reporting.
+- **People:** staff management, attendance, rota, commission, and payroll.
+- **Engineering:** shared business rules keep sales, inventory, and pay consistent across the platform.
 
-`TypeScript` · `JavaScript` · `Next.js` · `React` · `Node.js` · `Express` · `Go`
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Square`
 
-### Databases & Data Layer
+[Read the case study →](https://webdmamun.com/work/us-arabian-perfume) · [Visit the storefront](https://www.usarabianperfume.com)
 
-![Database technologies](https://skillicons.dev/icons?i=postgres,prisma,mongodb,firebase&theme=dark&perline=4)
+### London School of Excellence
+**Live · Lead developer · Sole developer since April 2026 · 500+ people using the CRM**
 
-`PostgreSQL` · `Prisma ORM` · `MongoDB` · `Firebase`
+An education operations platform connecting students, recruitment partners, and head office.
 
-### Infrastructure & DevOps
+- Student records and applications, with a catalogue covering **140 universities**.
+- Reusable documents, consent signing, agent onboarding, and commission workflows.
+- Server-enforced permissions across administrative, manager, and agent access.
+- Improvements delivered on an existing production system while application processing continued.
 
-![Infrastructure and DevOps technologies](https://skillicons.dev/icons?i=docker,nginx,aws,vercel,linux,bash,git,github&theme=dark&perline=8)
+I also built an **HR portal for LSOE**, extending my work beyond recruitment into internal operations.
 
-`Docker` · `Nginx` · `AWS` · `Vercel` · `Linux` · `Bash` · `Git` · `GitHub`
+`React` `Node.js` `Express` `MongoDB` `Socket.IO`
 
-### Frontend & UI
+[Read the case study →](https://webdmamun.com/work/london-school-of-excellence)
 
-![Frontend and UI technologies](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,figma&theme=dark&perline=7)
+### SME Enterprise News
+**Live · Sole developer · AI editorial tools**
 
-`React` · `Next.js` · `Tailwind CSS` · `Material UI` · `Bootstrap` · `HTML5` · `CSS3` · `Figma`
+Built AI-assisted drafting for article excerpts, SEO titles, and meta descriptions inside the publishing workflow. Editors review and edit every suggestion before publication; access controls and rate limits protect the generation endpoint.
 
----
+`Next.js` `TypeScript` `PostgreSQL` `Google Gemini`
 
-## 🧪 Engineering Practices
+[Read the case study →](https://webdmamun.com/work/ai-editorial-tools)
 
-![Testing](https://img.shields.io/badge/Testing-Unit_%7C_Integration_%7C_E2E-21262D?style=for-the-badge&logo=testinglibrary&logoColor=white)
+### Case Management & Fee Ledger
+**Live · Sole developer · Legal and immigration advisory**
 
-![API](https://img.shields.io/badge/API-REST_%26_Integrations-21262D?style=for-the-badge&logo=fastapi&logoColor=white)
+A workspace for case stages, deadlines, tasks, documents, and agreed fees. Caseworkers can track their work, while managers can see caseload and outstanding items in one place.
 
-![Architecture](https://img.shields.io/badge/Architecture-Scalable_Systems-21262D?style=for-the-badge&logo=serverless&logoColor=white)
+[Read the case study →](https://webdmamun.com/work/case-management-platform)
 
-![Security](https://img.shields.io/badge/Security-Auth_%26_RBAC-21262D?style=for-the-badge&logo=auth0&logoColor=white)
+**More work:** business websites, e-learning, property CRM, and workflow automation. [Browse the portfolio →](https://webdmamun.com/work)
 
----
+## Work history
 
-## 🚀 What I Build
+My work has grown from freelance client websites into the operational systems businesses use every day.
 
-```text
-┌───────────────────────────────────────────────────────┐
-│                    PRODUCT SYSTEMS                    │
-├───────────────────────────────────────────────────────┤
-│                                                       │
-│   Web / SaaS UI        →   Next.js + React + TS      │
-│             ↓                                         │
-│   API / Services       →   Node.js / Go              │
-│             ↓                                         │
-│   Business Logic       →   Auth · RBAC · Payments    │
-│             ↓                                         │
-│   Data Layer           →   PostgreSQL + Prisma       │
-│             ↓                                         │
-│   Infrastructure       →   Docker · Nginx · Cloud    │
-│             ↓                                         │
-│   Intelligence         →   AI Agents · Automation    │
-│                                                       │
-└───────────────────────────────────────────────────────┘
-```
+| Period | Work | What I delivered |
+| --- | --- | --- |
+| **2025–present** | **Business software & automation** | Retail operations, education CRM, HR portals, case management, payments, and AI-assisted publishing. Selected work includes US Arabian Perfume, London School of Excellence, and SME Enterprise News. |
+| **2023–2024** | **Business websites & digital experiences** | Websites for businesses across rentals, education, property, travel, music, and services. Selected work includes Boatify Rentals, Grammar World, Tenancy Cleaner UK, and Aghani Music. |
+| **2017–2022** | **Freelance client websites** | Earlier website projects that established my client delivery experience, before the work covered in my current portfolio. |
 
-I especially enjoy projects where frontend, backend, data, infrastructure, and business workflows need to operate together as **one reliable system**.
+**At LSOE:** lead developer and sole developer of the education operations platform since April 2026, working on an existing live system. My work also includes the organisation's HR portal.
 
----
+[More about my background →](https://webdmamun.com/about)
 
-## 🎯 Current Focus
+## How I approach the work
 
-```typescript
-const mamun = {
-  role: "Full-Stack & AI Growth Developer",
+- **Start with operations.** Understand the people, decisions, and manual steps before choosing the implementation.
+- **Take responsibility end to end.** Connect the data model, backend, interface, deployment, and ongoing changes.
+- **Make critical rules explicit.** Permissions, payments, inventory, and payroll need consistent behaviour across every entry point.
+- **Improve live systems carefully.** Use reversible changes and tests around the workflows people depend on.
+- **Use AI with a clear purpose.** Automate useful steps and keep human review where judgement matters.
 
-  building: [
-    "SaaS platforms",
-    "CRM & dashboard systems",
-    "Business-critical web applications",
-    "AI-enabled workflows",
-    "Automation systems",
-  ],
+## Tools behind the work
 
-  primaryStack: {
-    frontend: ["TypeScript", "React", "Next.js"],
-    backend: ["Node.js", "Go"],
-    data: ["PostgreSQL", "Prisma"],
-    infrastructure: ["Docker", "Nginx", "AWS"],
-    ai: ["AI Agents", "LLM Integrations", "Automation"],
-  },
+| Area | Technologies |
+| --- | --- |
+| Applications | TypeScript, JavaScript, React, Next.js, Node.js, Express |
+| Data | PostgreSQL, Prisma, MongoDB |
+| Delivery | AWS, Vercel, Docker, Nginx, Linux |
+| Integrations | Payments, real-time workflows, AI APIs, business automation |
 
-  engineeringValues: [
-    "Reliability",
-    "Maintainability",
-    "Performance",
-    "Security",
-    "Scalability",
-    "Great UX",
-  ],
-};
-```
+## Let's work together
 
----
+Need a CRM, a retail platform, an internal portal, or an improvement to an existing system? Tell me how the business works today and what needs to work better.
 
-## 📊 GitHub Analytics
+**[Book a meeting →](https://cal.com/webdmamun/60min)** · [Email me](mailto:hello@webdmamun.com) · [Find me on Upwork](https://www.upwork.com/freelancers/~01e2529aa950570604)
 
-![Mamun Ahmed's GitHub statistics](https://github-stats-extended.vercel.app/api?username=webdmamun&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Mamun Ahmed's most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=webdmamun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+[Website](https://webdmamun.com) &nbsp; · &nbsp; [Case studies](https://webdmamun.com/work) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/webdmamun1/)
 
-> GitHub language statistics reflect code detected in public repositories and are not a complete measure of technical proficiency.
-
----
-
-## 🔥 Contribution Streak
-
-![Mamun Ahmed's GitHub contribution streak](https://streak-stats.demolab.com?user=webdmamun&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Contribution Activity
-
-![Mamun Ahmed's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=webdmamun&theme=github-compact&hide_border=true&area=true)
-
----
-
-## 🤝 Let's Work Together
-
-I work on **full-stack applications, SaaS products, business platforms, automation systems, and AI-enabled products**.
-
-If you're building something where **technical quality, product thinking, reliability, and scalability** matter, feel free to connect.
-
-### 🌐 [Portfolio](https://www.webdmamun.com/) · 💼 [Upwork](https://www.upwork.com/freelancers/~01e2529aa950570604) · 🔗 [LinkedIn](https://www.linkedin.com/in/webdmamun1/)
-
----
-
-## 🌍 Find Me Online
-
-![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
-
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
-
-![X / Twitter](https://img.shields.io/badge/X_%2F_Twitter-000000?style=flat-square&logo=x&logoColor=white)
-
-### 💻 Engineering products that are built to ship — and built to last.
-
-⭐ **From [webdmamun](https://github.com/webdmamun)**
+</div>
