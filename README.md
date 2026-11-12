@@ -1,22 +1,33 @@
 <div align="center">
 
-# Mamun Ahmed
+# Hi, I'm Mamun Ahmed
 
 ### I build software that businesses run on.
 
-CRM · Retail operations · HR & payroll · E-commerce · Automation
+<img src="https://readme-typing-svg.demolab.com?font=Inter&amp;size=18&amp;duration=3500&amp;pause=1800&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=460&amp;height=30&amp;lines=Building+for+clients+since+2017;From+customer+checkout+to+business+operations" alt="Building for clients since 2017. From customer checkout to business operations." width="460" height="30" />
 
-**Building for clients since 2017**
+**CRM &nbsp; · &nbsp; Retail &nbsp; · &nbsp; HR & payroll &nbsp; · &nbsp; E-commerce &nbsp; · &nbsp; Automation**
 
-[Explore my work](https://webdmamun.com/work) &nbsp; / &nbsp; [Book a meeting](https://cal.com/webdmamun/60min) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/webdmamun1/)
+[![Book a meeting](https://img.shields.io/badge/Book_a_meeting-0F766E?style=flat-square)](https://cal.com/webdmamun/60min)
+[![Explore my work](https://img.shields.io/badge/Explore_my_work-2563EB?style=flat-square)](https://webdmamun.com/work)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=flat-square)](https://www.linkedin.com/in/webdmamun1/)
+
+[Selected work](#selected-work) &nbsp; / &nbsp; [Work history](#work-history) &nbsp; / &nbsp; [How I work](#how-i-approach-the-work) &nbsp; / &nbsp; [Get in touch](#lets-work-together)
 
 </div>
 
 ---
 
-I'm a full-stack developer based in Bangladesh, building for clients since **2017**. I build the customer-facing experiences and internal systems behind a business, and stay involved through deployment, maintenance, and the changes that follow.
+I'm a full-stack developer, building for clients since **2017**. I build the customer-facing experiences and internal systems behind a business, and stay involved through deployment, maintenance, and the changes that follow.
 
-My work includes a CRM used by **500+ people** and a retail platform used by **5,000+ people, including customers and staff**. On most projects, I work as the sole developer.
+On most projects, I work as the sole developer: understanding the operations, building the system, and maintaining it after launch.
+
+| Building for clients since | LSOE CRM | US Arabian Perfume |
+| :---: | :---: | :---: |
+| **2017** | **500+ people** | **5,000+ people** |
+| Freelance websites → business systems | Education operations | Including customers and staff |
+
+---
 
 ## Selected work
 
@@ -25,6 +36,14 @@ My work includes a CRM used by **500+ people** and a retail platform used by **5
 
 A connected platform for online sales, physical branches, and head-office operations.
 
+- **One connected operation:** storefront, point of sale, inventory, and branch management.
+- **Workforce workflows:** staff, attendance, rota, commission, and payroll.
+
+[Explore the case study →](https://webdmamun.com/work/us-arabian-perfume) · [Visit the storefront ↗](https://www.usarabianperfume.com)
+
+<details>
+<summary><strong>Explore the workflows and engineering</strong></summary>
+
 - **Commerce:** storefront, checkout, point of sale, orders, and fulfilment.
 - **Branches:** inventory, stock requests, register shifts, and branch reporting.
 - **People:** staff management, attendance, rota, commission, and payroll.
@@ -32,23 +51,34 @@ A connected platform for online sales, physical branches, and head-office operat
 
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Square`
 
-[Read the case study →](https://webdmamun.com/work/us-arabian-perfume) · [Visit the storefront](https://www.usarabianperfume.com)
+</details>
+
+---
 
 ### London School of Excellence
 **Live · Lead developer · Sole developer since April 2026 · 500+ people using the CRM**
 
 An education operations platform connecting students, recruitment partners, and head office.
 
+- **Connected student journeys:** records, applications, documents, and consent.
+- **Recruitment operations:** a 140-university catalogue, agent onboarding, and commission workflows.
+- **Internal operations:** I also built the organisation's HR portal.
+
+[Explore the case study →](https://webdmamun.com/work/london-school-of-excellence)
+
+<details>
+<summary><strong>Explore my contribution and technical decisions</strong></summary>
+
 - Student records and applications, with a catalogue covering **140 universities**.
 - Reusable documents, consent signing, agent onboarding, and commission workflows.
 - Server-enforced permissions across administrative, manager, and agent access.
 - Improvements delivered on an existing production system while application processing continued.
 
-I also built an **HR portal for LSOE**, extending my work beyond recruitment into internal operations.
-
 `React` `Node.js` `Express` `MongoDB` `Socket.IO`
 
-[Read the case study →](https://webdmamun.com/work/london-school-of-excellence)
+</details>
+
+---
 
 ### SME Enterprise News
 **Live · Sole developer · AI editorial tools**
@@ -92,6 +122,9 @@ My work has grown from freelance client websites into the operational systems bu
 
 ## Tools behind the work
 
+<details>
+<summary><strong>Open the toolkit — applications, data, infrastructure, and integrations</strong></summary>
+
 | Area | Technologies |
 | --- | --- |
 | Applications | TypeScript, JavaScript, React, Next.js, Node.js, Express |
@@ -99,14 +132,22 @@ My work has grown from freelance client websites into the operational systems bu
 | Delivery | AWS, Vercel, Docker, Nginx, Linux |
 | Integrations | Payments, real-time workflows, AI APIs, business automation |
 
+</details>
+
+---
+
 ## Let's work together
 
 Need a CRM, a retail platform, an internal portal, or an improvement to an existing system? Tell me how the business works today and what needs to work better.
 
-**[Book a meeting →](https://cal.com/webdmamun/60min)** · [Email me](mailto:hello@webdmamun.com) · [Find me on Upwork](https://www.upwork.com/freelancers/~01e2529aa950570604)
+**[Book a meeting →](https://cal.com/webdmamun/60min)** · [Email me](mailto:hello@webdmamun.com)
+
+Prefer Upwork? [View my profile →](https://www.upwork.com/freelancers/~01e2529aa950570604)
 
 <div align="center">
 
 [Website](https://webdmamun.com) &nbsp; · &nbsp; [Case studies](https://webdmamun.com/work) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/webdmamun1/)
+
+[Back to top ↑](#hi-im-mamun-ahmed)
 
 </div>
