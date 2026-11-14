@@ -4,13 +4,15 @@
 
 ### I build software that businesses run on.
 
+**Full-stack developer & AI automation** &nbsp; · &nbsp; Founder, [AM-IT Solution](https://www.amitsolution.net) &nbsp; · &nbsp; [webdmamun.com](https://webdmamun.com)
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;size=18&amp;duration=3500&amp;pause=1800&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=460&amp;height=30&amp;lines=Building+for+clients+since+2017;From+customer+checkout+to+business+operations" alt="Building for clients since 2017. From customer checkout to business operations." width="460" height="30" />
 
 **CRM &nbsp; · &nbsp; Retail &nbsp; · &nbsp; HR & payroll &nbsp; · &nbsp; E-commerce &nbsp; · &nbsp; Automation**
 
 [![Book a meeting](https://img.shields.io/badge/Book_a_meeting-0F766E?style=flat-square)](https://cal.com/webdmamun/60min)
 [![Explore my work](https://img.shields.io/badge/Explore_my_work-2563EB?style=flat-square)](https://webdmamun.com/work)
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=flat-square)](https://www.linkedin.com/in/webdmamun1/)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=flat-square)](https://www.linkedin.com/in/webdmamun01)
 
 [Selected work](#selected-work) &nbsp; / &nbsp; [Work history](#work-history) &nbsp; / &nbsp; [How I work](#how-i-approach-the-work) &nbsp; / &nbsp; [Get in touch](#lets-work-together)
 
@@ -20,7 +22,7 @@
 
 I'm a full-stack developer, building for clients since **2017**. I build the customer-facing experiences and internal systems behind a business, and stay involved through deployment, maintenance, and the changes that follow.
 
-On most projects, I work as the sole developer: understanding the operations, building the system, and maintaining it after launch.
+I own the architecture, stay hands-on in the code, and stay accountable for the system after launch: understanding the operations, building it, and maintaining it.
 
 | Building for clients since | LSOE CRM | US Arabian Perfume |
 | :---: | :---: | :---: |
@@ -32,7 +34,7 @@ On most projects, I work as the sole developer: understanding the operations, bu
 ## Selected work
 
 ### US Arabian Perfume
-**Live · Sole developer · 5,000+ people, including customers and staff**
+**Live · 5,000+ people, including customers and staff**
 
 A connected platform for online sales, physical branches, and head-office operations.
 
@@ -56,7 +58,7 @@ A connected platform for online sales, physical branches, and head-office operat
 ---
 
 ### London School of Excellence
-**Live · Lead developer · Sole developer since April 2026 · 500+ people using the CRM**
+**Live · 500+ people using the CRM**
 
 An education operations platform connecting students, recruitment partners, and head office.
 
@@ -81,7 +83,7 @@ An education operations platform connecting students, recruitment partners, and 
 ---
 
 ### SME Enterprise News
-**Live · Sole developer · AI editorial tools**
+**Live · AI editorial tools**
 
 Built AI-assisted drafting for article excerpts, SEO titles, and meta descriptions inside the publishing workflow. Editors review and edit every suggestion before publication; access controls and rate limits protect the generation endpoint.
 
@@ -90,7 +92,7 @@ Built AI-assisted drafting for article excerpts, SEO titles, and meta descriptio
 [Read the case study →](https://webdmamun.com/work/ai-editorial-tools)
 
 ### Case Management & Fee Ledger
-**Live · Sole developer · Legal and immigration advisory**
+**Live · Legal and immigration advisory**
 
 A workspace for case stages, deadlines, tasks, documents, and agreed fees. Caseworkers can track their work, while managers can see caseload and outstanding items in one place.
 
@@ -108,7 +110,7 @@ My work has grown from freelance client websites into the operational systems bu
 | **2023–2024** | **Business websites & digital experiences** | Websites for businesses across rentals, education, property, travel, music, and services. Selected work includes Boatify Rentals, Grammar World, Tenancy Cleaner UK, and Aghani Music. |
 | **2017–2022** | **Freelance client websites** | Earlier website projects that established my client delivery experience, before the work covered in my current portfolio. |
 
-**At LSOE:** lead developer and sole developer of the education operations platform since April 2026, working on an existing live system. My work also includes the organisation's HR portal.
+**At LSOE:** the education operations platform, improved on an existing live system, and the organisation's HR portal.
 
 [More about my background →](https://webdmamun.com/about)
 
@@ -146,7 +148,7 @@ Prefer Upwork? [View my profile →](https://www.upwork.com/freelancers/~01e2529
 
 <div align="center">
 
-[Website](https://webdmamun.com) &nbsp; · &nbsp; [Case studies](https://webdmamun.com/work) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/webdmamun1/)
+[Website](https://webdmamun.com) &nbsp; · &nbsp; [Case studies](https://webdmamun.com/work) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/webdmamun01)
 
 [Back to top ↑](#hi-im-mamun-ahmed)
 
